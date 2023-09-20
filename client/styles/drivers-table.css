@@ -1,0 +1,11 @@
+.driver-container {
+	background-color: #ffe3fe;
+	flex-grow: 0.75;
+	padding: 0 20px;
+}
+
+.drivers-table {
+	width: 100%;
+    padding: 30px 10px 50px;
+	color: #0d0d30;
+}

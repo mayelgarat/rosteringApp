@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: #0c0c2f;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 35px;
+}
+
+.main-app {
+  display: flex;
+}
+
+.logo {
+  font-family: 'Comfortaa';
+  margin: 0;
+  font-size: 35px;
+}
+
+.button {
+  border-radius: 100px;
+  background-color: #61c0fa;
+  color: white;
+  border: none;
+  padding: 12px 45px;
+	font-family: 'Montserrat';
+  text-align: center;
+  cursor: pointer;
+  font-size: .875rem;
+}
+
+.button:hover{
+  background-color: #00b9eb;
+
+}

@@ -1,0 +1,11 @@
+.tasks-container {
+	flex-grow: 1.5;
+
+}
+
+.tasks-table {
+	width: 90%;
+	padding: 30px 50px;
+	color: #0d0d30;
+	margin-left: 20px;
+}

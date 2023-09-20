@@ -1,0 +1,36 @@
+th {
+	min-width: 60px;
+	font-family: 'Comfortaa';
+	text-align: left;
+}
+
+td {
+	padding: 5px;
+	text-align: left;
+	font-family: 'Montserrat';
+	color: #0c0c2f;
+
+
+}
+
+tr {
+	border-bottom: 1px solid #0c0c2f36;
+}
+
+tr:hover{
+	background-color: #80808024;
+}
+
+.title {
+	font-family: 'Comfortaa';
+	text-align: center;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+thead {
+	height: 45px;
+
+}
